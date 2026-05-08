@@ -17,7 +17,7 @@ entity tt_um_dtmf_gen is
     );
 end tt_um_dtmf_gen;
 
-architecture Behavioral of tt_um_example is
+architecture Behavioral of tt_um_dtmf_gen is
 
 component datapath is
    Port (
